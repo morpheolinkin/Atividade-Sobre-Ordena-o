@@ -25,7 +25,8 @@ int main (void) {
   ///Não sei, mas acho que o problema está por aqui!!
   mergesort(arq, 50);
 
-  for (i = 0; i < 50; i++) printf("%d \n", arq[i]);
+  for (i = 0; i < 50; i++) 
+    printf("%d \n", arq[i]);
 
   //putchar('\n');
 
